@@ -1281,6 +1281,7 @@
     margin-top: -1px;
 }
 .home-product-item__status-qnt {
+    color: #212121;
     font-size: 1.2rem;
 }
 .home-product-item__addr {
