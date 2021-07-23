@@ -7,6 +7,9 @@
     .hide-on-mobile-tablet {
         display: none;
     }
+    .app__content {
+        padding-top: 0;
+    }
 
     .header {
         position: fixed;
