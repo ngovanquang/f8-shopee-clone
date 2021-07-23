@@ -1103,6 +1103,7 @@
     position: relative;
     transition: transform ease-in 0.1s;
     margin-bottom: 10px;
+    color: transparent;
 }
 .home-product-item__favorite {
     position: absolute;
