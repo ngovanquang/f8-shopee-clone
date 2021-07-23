@@ -1344,7 +1344,7 @@
 }
 .home-product-item__status {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
 }
 .home-product-item__status-rate {
     color: #FFCE3D;
