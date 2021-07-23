@@ -10,6 +10,9 @@
     .app__content {
         padding-top: 0;
     }
+    .mobile-category {
+        display: block;
+    }
 
     .header {
         position: fixed;
