@@ -93,6 +93,12 @@
         min-width: 36px;
     }
 
+
+    .footer-padding {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
     @keyframes mobileSearchSideIn {
         from {
             top: calc(var(--header-height) / 2);
